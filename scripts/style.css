@@ -1,0 +1,17 @@
+body{
+  font-family: 'Bubbler One', sans-serif;
+  background-color:#e9e9e9;
+}
+h1, p, ul{
+  text-align:center;
+}
+li{
+  list-style-type: none;
+}
+li:hover{
+  cursor: pointer;
+}
+li img{
+  width:5%;
+  margin:10px;
+}
