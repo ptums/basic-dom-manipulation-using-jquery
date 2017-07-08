@@ -10,9 +10,8 @@
                  'animated zoomIn',
                  'animated pulse'
                ];
-
                var selectedAnimation = animations[Math.floor(Math.random()*animations.length)];
-               console.log(selectedAnimation);
+               
                $(this).addClass(selectedAnimation);
 
                 if(color === 'gray'){
