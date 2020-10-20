@@ -25,7 +25,7 @@ I am looking for recent bootcamp grads, bootcamp students, or any coders who are
 When one of the emojis is clicked, a function using JQuery is fired
 ![Website](./docs/website.png)
 
-This is that function
+**This is that function**
 
 ```
 function changeColor(){
